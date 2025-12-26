@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔑 THIS FIXES THE ERROR
+  contents: write
 
 jobs:
   build:
@@ -15,6 +15,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Generate GitHub profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -24,7 +32,7 @@ jobs:
           USERNAME: avinash-sharma-121
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update GitHub profile summary cards"
-          branch: main
+        run: |
+          git add .
+          git commit -m "chore: update GitHub profile summary cards" || echo "No changes to commit"
+          git push origin main
