@@ -9,6 +9,13 @@ I enjoy building **scalable, secure, and highly available systems**, and contrib
 
 ---
 
+## My Github Stats 📊
+[![](https://raw.githubusercontent.com/avinash-sharma-121/avinash-sharma-121/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/avinash-sharma-121/avinash-sharma-121/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/avinash-sharma-121/avinash-sharma-121/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/avinash-sharma-121/avinash-sharma-121/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/avinash-sharma-121/avinash-sharma-121/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
+
 ## 🔭 What I Do
 - Build and manage **AWS cloud infrastructure**
 - Design **CI/CD pipelines** using Jenkins & GitHub Actions
@@ -87,26 +94,5 @@ I automate repetitive tasks so I can break systems intentionally — and fix the
 
 ⭐ *If you like my work, feel free to star my repositories and connect!*
 
----
 
-### My Github Stats 📊
 
-[![](https://raw.githubusercontent.com/avinash-sharma-121/avinash-sharma-121/main/profile-summary-card-output/github_dark/image.png)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/avinash-sharma-121/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/avinash-sharma-121/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/avinash-sharma-121/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/avinash-sharma-121/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)](https://git.io/streak-stats)
-<!--
-For future use
-<a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
--->
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=avinash-sharma-121&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
-
----
