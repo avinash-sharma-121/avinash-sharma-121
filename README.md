@@ -106,3 +106,7 @@ For future use
 -->
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=avinash-sharma-121&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
+---
