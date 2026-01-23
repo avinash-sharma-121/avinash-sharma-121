@@ -87,7 +87,7 @@ I enjoy building **scalable, secure, and highly available systems**, and contrib
 ## 📫 Connect With Me
 - 💼 LinkedIn: *([avinashksharma](https://www.linkedin.com/in/avinashksharma/))*
 - 📧 Email: *([kumaravinashsharma82@gmail.com](kumaravinashsharma82@gmail.com))*
-- 🧑‍💻 GitHub: [avinash-sharma-121](https://github.com/avinash-sharma-121)
+- 🧑‍💻 Portfolio: [Please check my profile](https://www.avi-learning.xyz/)
 
 ---
 
